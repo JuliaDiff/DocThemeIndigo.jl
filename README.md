@@ -49,6 +49,14 @@ makedocs(;
 )
 ```
 
+## Acknowledgement
+
+This theme is based on earlier works made by the following people: [ChainRulesCore#332](https://github.com/JuliaDiff/ChainRulesCore.jl/issues/332).
+
+- [@iamed2](https://github.com/iamed2)
+- [@oxinabox](https://github.com/oxinabox)
+- [@cormullion](https://github.com/cormullion)
+- [@simeonschaub](https://github.com/simeonschaub)
 
 ## License
 
