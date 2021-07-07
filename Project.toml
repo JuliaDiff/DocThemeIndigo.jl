@@ -1,13 +1,13 @@
 name = "DocThemeIndigo"
 uuid = "8bac0ac5-51bf-41f9-885e-2bf1ac2bec5f"
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Sass = "322a6be2-4ae8-5d68-aaf1-3e960788d1d9"
 
 [compat]
-julia = "1.6"
 Sass = "0.2"
+julia = "1.6"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
