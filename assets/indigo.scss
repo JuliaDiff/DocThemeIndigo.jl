@@ -30,6 +30,12 @@
       box-shadow: none;
       color: #FFFFFF;
       background-color: #194E82;
+
+      .docs-package-name {
+        a, a:hover {
+          color: #FFFFFF;
+        }
+      }
   
       ul.docs-menu {
         border-top: none;
