@@ -3,7 +3,8 @@ module DocThemeIndigo
 using Sass
 
 function install(m::Module)
-    doc = joinpath(dirname(dirname(pathof(m))), "docs")
+    pkg = pkgdir(m)
+    doc = joinpath(pkg, "docs")
     src = joinpath(@__DIR__, "..", "assets", "indigo.scss")
     assets = joinpath(doc, "src", "assets")
     dst = joinpath(assets, "indigo.css")
