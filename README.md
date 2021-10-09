@@ -1,7 +1,7 @@
 # DocThemeIndigo
 
 [![Build Status](https://github.com/JuliaDiff/DocThemeIndigo.jl/workflows/CI/badge.svg)](https://github.com/JuliaDiff/DocThemeIndigo.jl/actions)
-[![Coverage](https://codecov.io/gh/JuliaDiff/DocThemeIndigo.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/JuliaDiff/DocThemeIndigo.jl)
+[![Coverage](https://codecov.io/gh/JuliaDiff/DocThemeIndigo.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/JuliaDiff/DocThemeIndigo.jl)
 
 The Indigo theme for Documenter.
 
