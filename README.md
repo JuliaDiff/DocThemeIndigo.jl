@@ -2,6 +2,7 @@
 
 [![Build Status](https://github.com/JuliaDiff/DocThemeIndigo.jl/workflows/CI/badge.svg)](https://github.com/JuliaDiff/DocThemeIndigo.jl/actions)
 [![Coverage](https://codecov.io/gh/JuliaDiff/DocThemeIndigo.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/JuliaDiff/DocThemeIndigo.jl)
+[![ColPrac: Contributor's Guide on Collaborative Practices for Community Packages](https://img.shields.io/badge/ColPrac-Contributor's%20Guide-blueviolet)](https://github.com/SciML/ColPrac)
 
 The Indigo theme for Documenter.
 
